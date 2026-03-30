@@ -1,4 +1,4 @@
-# Read me
+# Scaling Laws Govern Regulatory Costs from Genomes to Society
 This is the replication folder for Scaling Laws Govern Regulatory Costs from Genomes to Society
 
 
